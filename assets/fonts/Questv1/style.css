@@ -1,0 +1,17 @@
+/* arabic */
+@font-face {
+    font-family: 'Questv1';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(Questv1-Regular.woff2) format('woff2');
+  }
+
+  /* arabic */
+  @font-face {
+    font-family: 'Questv1';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url(Questv1-Bold.woff2) format('woff2');
+  }
